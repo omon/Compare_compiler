@@ -1,0 +1,7 @@
+*.o
+Debug/
+Inc/Eigen/
+Drivers/
+Release/
+EWARM/settings/
+EWARM/IAR_vs_GCC/

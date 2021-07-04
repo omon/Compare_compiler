@@ -1,0 +1,31 @@
+{
+    "env" : {
+
+    },
+    "configurations": [
+        {
+            "name": "matrix",
+            "intelliSenseMode": "gcc-arm",
+            "includePath": [
+                "Inc",
+                "Drivers/STM32G4xx_HAL_Driver/Inc",
+                "Drivers/STM32G4xx_HAL_Driver/Inc/Legacy",
+                "Drivers/CMSIS/Device/ST/STM32G4xx/Include",
+                "Drivers/CMSIS/Include"
+             ],
+            "defines": [ 
+                "USE_HAL_DRIVER",
+                "STM32G474xx"
+            ],
+            "compilerPath": "C://tools/gcc-arm-none-eabi-9-2020-q2-update-win32/bin/arm-none-eabi-g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "browse": {
+                "path": [ "${workspaceFolder}" ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
