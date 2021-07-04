@@ -36,11 +36,11 @@
                 </option>
                 <option>
                     <name>Input description</name>
-                    <state>æŒ‡å®šå­nãªã—ã€floatãŠã‚ˆã³long longãªã—ã€ã‚¹ã‚­ãƒ£ãƒ³ã‚»ãƒƒãƒˆãªã—ã€ä»£å…¥æŠ‘åˆ¶ãªã—ã€ãƒžãƒ«ãƒãƒã‚¤ãƒˆæ–‡å­—ã‚µãƒãƒ¼ãƒˆã‚’æœ‰åŠ¹ã«ã™ã‚‹ã€‚</state>
+                    <state>Žw’èŽqn‚È‚µAfloat‚¨‚æ‚Ñlong long‚È‚µAƒXƒLƒƒƒ“ƒZƒbƒg‚È‚µA‘ã“ü—}§‚È‚µAƒ}ƒ‹ƒ`ƒoƒCƒg•¶ŽšƒTƒ|[ƒg‚ð—LŒø‚É‚·‚éB</state>
                 </option>
                 <option>
                     <name>Output description</name>
-                    <state>æŒ‡å®šå­aãªã—ã€Aã€ãƒžãƒ«ãƒãƒã‚¤ãƒˆæ–‡å­—ã‚µãƒãƒ¼ãƒˆã‚’æœ‰åŠ¹ã«ã™ã‚‹ã€‚</state>
+                    <state>Žw’èŽqa‚È‚µAAAƒ}ƒ‹ƒ`ƒoƒCƒg•¶ŽšƒTƒ|[ƒg‚ð—LŒø‚É‚·‚éB</state>
                 </option>
                 <option>
                     <name>GOutputBinary</name>
@@ -62,7 +62,7 @@
                 </option>
                 <option>
                     <name>RTDescription</name>
-                    <state>C/C++ãƒ©ãƒ³ã‚¿ã‚¤ãƒ ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã®è©³ç´°è¨­å®šã‚’ä½¿ç”¨ã—ã¾ã™ã€‚è©³ç´°ãƒ­ã‚±ãƒ¼ãƒ«ã‚¤ãƒ³ã‚¿ãƒ•ã‚§ãƒ¼ã‚¹ã€Cãƒ­ã‚±ãƒ¼ãƒ«ã€ãƒ•ã‚¡ã‚¤ãƒ«è¨˜è¿°å­ã‚µãƒãƒ¼ãƒˆã€printf/scanfã§ã®ãƒžãƒ«ãƒãƒã‚¤ãƒˆæ–‡å­—ã€strtodã§ã®16é€²æ•°æµ®å‹•å°æ•°ç‚¹æ•°ã€‚</state>
+                    <state>C/C++ƒ‰ƒ“ƒ^ƒCƒ€ƒ‰ƒCƒuƒ‰ƒŠ‚ÌÚ×Ý’è‚ðŽg—p‚µ‚Ü‚·BÚ×ƒƒP[ƒ‹ƒCƒ“ƒ^ƒtƒF[ƒXACƒƒP[ƒ‹Aƒtƒ@ƒCƒ‹‹LqŽqƒTƒ|[ƒgAprintf/scanf‚Å‚Ìƒ}ƒ‹ƒ`ƒoƒCƒg•¶ŽšAstrtod‚Å‚Ì16i”•‚“®¬”“_”B</state>
                 </option>
                 <option>
                     <name>OGProductVersion</name>
